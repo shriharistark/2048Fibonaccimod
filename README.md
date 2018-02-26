@@ -5,6 +5,7 @@ Mod - merging is done, if the corresponding cells are adjacent fibonacci numbers
 (0,1,1,2,3,5,8,13.. ) where (3,5,8) and (5,8,13) are adjacent fibonacci numbers.
 
 A user can choose between four moves -
+
 up - pulls up the numbers from the bottom cells to the upper empty cells | merges(Adds) if they are adjacent fibo numbers.
 down - pushes down the numbers to the bottom empty cells from the upper cells | merges(Adds) if they are adjacent fibo numbers. 
 Right - similar
